@@ -5,7 +5,7 @@
  * Time: 7:22 PM
  * Desc: Check if a supplied IP is from cloudflare or not.
  *       Use memcached to cache Cloudflare IPs to avoid repolling
- * Usgae: iscloudflareip.php?ip=x.x.x.x
+ * Usage: iscloudflareip.php?ip=x.x.x.x
  * Retrun: JSON string containing IP, result, and the CF IP range if successful
  */
 
